@@ -1,0 +1,1 @@
+{"timestamp":"2025-10-29T09:27:24.983Z","level":"info","message":"HTTP Request","method":"GET","url":"/student/test/6901062c1a715132e110a818","ip":"::1","status":304,"duration":"591.192ms","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0","userId":"68f3debb3ee289a4cba61859"}
